@@ -14,9 +14,6 @@ Permite configurar longitud, mayúsculas, números y caracteres especiales.
 - Diseño minimalista y responsive.
 - Copia fácil de la contraseña generada.
 
-## 🚀 Demo
-👉 [Ver en GitHub Pages](https://tuusuario.github.io/generador-de-contrasenas/)
-
 ## 🛠️ Tecnologías usadas
 - HTML5  
 - CSS3  
